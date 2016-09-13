@@ -1,0 +1,3 @@
+[submodule "External/GENet.GraphicEffectsLibrary"]
+	path = External/GENet.GraphicEffectsLibrary
+	url = https://github.com/rusden220/GENet.GraphicEffectsLibrary
